@@ -1,0 +1,6 @@
+sstreamlit
+firebase-admin
+pandas
+gspread
+gspread-dataframe
+google-auth
